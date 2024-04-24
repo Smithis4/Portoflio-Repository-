@@ -1,3 +1,3 @@
 # Bicycle-Company-Project
 Contains:
-  SQL Data and Excel File
+  SQL Data,Excel File, and Power BI Dashboards.
